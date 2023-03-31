@@ -55,4 +55,5 @@ Por ultimo puede ver los logs:
 ![docker logs aws](https://user-images.githubusercontent.com/72176664/229225194-1df5fc42-a3a6-45b3-a174-cef166dd66a8.png)
 
 # Video del funcionamiento
+Tiene que loguearse como miembro de la escuela para verlo
 [video](https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/msteams_b1fe54/EdRELvVNxBlLpYZk_QLEhUgBhWl7o800aj0S7BHthCK91A?e=kuRzmr)
